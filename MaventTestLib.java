@@ -14,7 +14,7 @@ public class MaventTestLib {
     int a;
     public int someMethod()
     {
-        return(64);
+        return(4);
     }
     /*
     public static void main(String[] args) {
